@@ -1,0 +1,25 @@
+#self-intro-pic {
+  border-radius: 50%;
+  width: 20vw;
+}
+
+#self-intro-text {
+  width: 600px;
+}
+
+.carousel-image {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.work-display-card {
+  width: 24rem;
+  border-radius: 1rem !important;
+  overflow: hidden;
+}
+
+#main-footer {
+  background-color: #1d3557;
+  color: #f1faee;
+}
+/*# sourceMappingURL=style.css.map */
